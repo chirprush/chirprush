@@ -29,4 +29,5 @@ I'm sure everyone dabbles in a bunch on their own time, but my main languages ar
 - C
 - Python
 - Rust
+
 There's also the whole web dev trio and other fun languages like Haskell or Prolog, but the above are usually what I reach for when working on something.
