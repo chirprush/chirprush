@@ -17,6 +17,7 @@ Currently studying:
 
 Cool things I should look into more:
 - Electromagnetism
+- Stochastic processes
 - Vector calculus
 - More statistical models
 
